@@ -1,0 +1,13 @@
+@import "null.css";
+
+body {
+   font-family: 'Lato', sans-serif;
+   font-size: 16px;
+   background-color: #eff1f7;
+}
+
+.wrapper {
+   min-height: 100%;
+   overflow: hidden;
+}
+
